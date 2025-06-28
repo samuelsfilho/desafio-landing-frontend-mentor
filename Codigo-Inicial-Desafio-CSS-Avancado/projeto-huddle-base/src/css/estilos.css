@@ -59,7 +59,11 @@ padding: 120px 5px;
 }
 
 .container .informacoes .botao:hover {
-  color: red;
+  background-color: pink;
+}
+
+.container .informacoes .botao h2:hover {
+  color: #fff;
 }
 
 .rodape {
